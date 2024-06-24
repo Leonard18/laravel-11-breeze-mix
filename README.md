@@ -1,2 +1,7 @@
 # laravel-11-breeze-mix
-Laravel 11 with Breeze and Mix
+
+After cloning the repo, don't forget to run:
+
+npm install
+
+This will install node dependencies and the missing node_modules directory as well.
